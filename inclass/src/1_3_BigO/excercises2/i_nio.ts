@@ -9,4 +9,4 @@ export const returnDuplicate = (a: number[], b: number[]) => {
     return duplicates
 }
 
-export const ANSWER_I = 'O(1)'
+export const ANSWER_I = 'O(n^2)'

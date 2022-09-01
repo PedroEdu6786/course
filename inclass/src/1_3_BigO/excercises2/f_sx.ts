@@ -15,4 +15,4 @@ const fibWithMemo = (n: number, memo: Record<number, number>) => {
     return memo[n]
 }
 
-export const ANSWER_F = 'O(1)'
+export const ANSWER_F = 'O(n)'

@@ -10,4 +10,4 @@ export const powersOf2 = (n:number) => {
     return curr
 }
 
-export const ANSWER_G = 'O(1)'
+export const ANSWER_G = 'O(logn)'

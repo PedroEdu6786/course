@@ -16,4 +16,4 @@ const findSquare = (n: number, min: number, max: number) => {
         return findSquare(n, min, guess-1)
 }
 
-export const ANSWER_H = 'O(1)'
+export const ANSWER_H = 'O(logn)'

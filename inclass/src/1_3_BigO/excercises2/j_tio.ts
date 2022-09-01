@@ -36,5 +36,5 @@ const swap = (n: number[], i: number, j: number) => {
 }
 
 
-export const ANSWER_J = 'O(1)'
-export const EXTRA_POINT = 'Which algorythm is this one'
+export const ANSWER_J = 'O(nlogn)'
+export const EXTRA_POINT = 'quicksort'
